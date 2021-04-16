@@ -1,2 +1,2 @@
 # hi-world
-Hi, me name is Aruzhan. I'm a student
+Hi, my name is Aruzhan. I'm a student
