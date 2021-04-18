@@ -1,2 +1,2 @@
-# hi-world
+# hello-world
 Hi, my name is Aruzhan. I'm a student
